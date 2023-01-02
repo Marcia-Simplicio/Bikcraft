@@ -27,7 +27,7 @@ O Menu e o Footer se repetem em todas as páginas em que os conteúdos são clic
 ![image](https://user-images.githubusercontent.com/71258083/210268182-98861741-ac9f-4215-b7b1-0a6402744eae.png)
 
 * SEGUROS:
-![image](https://user-images.githubusercontent.com/71258083/210268234-2cbacd1f-9616-4e18-b77f-bfeb20cd360e.png)
+![image](https://user-images.githubusercontent.com/71258083/210269392-99b709dd-8131-430f-8348-8e738aed71ba.png)
 ![image](https://user-images.githubusercontent.com/71258083/210268285-23b6bfc2-10fe-4446-90c5-66f9ce1c7585.png)
 ![image](https://user-images.githubusercontent.com/71258083/210268525-efe1ce4a-272a-41c8-b109-75fbc458df5b.png)
 ![image](https://user-images.githubusercontent.com/71258083/210268563-e056b42c-43bb-4a5d-afc8-917954f85301.png)
